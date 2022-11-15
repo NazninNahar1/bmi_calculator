@@ -20,7 +20,7 @@ class CardIcon extends StatelessWidget {
         ),
         Text(
           text,
-          style: textStyle,
+          style: ktextStyle,
         ),
       ],
     );
